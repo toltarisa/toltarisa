@@ -11,7 +11,7 @@ Software Engineering Student :diamonds:
 - Also work with Spring Boot and RoR for side projects :diamonds:
 - Trying to get better at Algorithms and Data Structures.
 - Also read blog posts and write blog posts about what i know. [Check it out !](https://toltarisa.github.io/)
-- I'm creating issues and pr's about technologies that i use in my projects on github.I believe power of Open Source :hearts:
+- I'm opening issues and pr's about technologies that i use in my projects on github.I believe power of Open Source :hearts:
 
 <p align="left">
  <a href="mailto:isatoltar@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
