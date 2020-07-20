@@ -19,4 +19,3 @@ Software Engineering Student :diamonds:
 <a href="https://twitter.com/isatoltar"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a>&nbsp; &nbsp;
 </p>
 
-[![Isa's github stats](https://github-readme-stats.vercel.app/api?username=toltarisa)](https://github.com/toltarisa/github-readme-stats)
