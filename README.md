@@ -7,7 +7,6 @@ Software Engineering Student :diamonds:
 ## About me 
 
 - 4th Grade Software Engineering Student.
-- Mostly work with JavaScript related technologies.
 - Trying to get better at Algorithms and Data Structures.
 - Also read blog posts and write blog posts about what i know. [Check it out !](https://toltarisa.github.io/)
 - I'm opening issues and pr's about technologies that i use in my projects on github.I believe power of Open Source :hearts:
