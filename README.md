@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="300px" height="250px" />
 
 # Hi, I'm Isa :tada:
 
