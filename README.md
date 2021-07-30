@@ -5,7 +5,7 @@ Software Engineering Student :diamonds:
 
 ## About me 
 
-- 4th Grade Software Engineering Student.
+- New Graduate Software Engineer.
 - Trying to get better at Algorithms and Data Structures.
 - Checkout my blog posts. [Check it out !](https://toltarisa.github.io/)
 
