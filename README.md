@@ -1,7 +1,7 @@
 
 # Hi, I'm Isa :tada:
 
-Software Engineering Student :diamonds:
+Junior Backend Engineer
 
 ## About me 
 
