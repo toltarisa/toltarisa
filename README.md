@@ -1,7 +1,7 @@
 
 # Hi, I'm Isa :tada:
 
-Junior Backend Engineer
+Junior Software Engineer Specializing in Backend Development. I also have interest for Devops, Network programming and sometimes frontend.
 
 ## About me 
 
