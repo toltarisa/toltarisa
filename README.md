@@ -7,7 +7,6 @@ Junior Software Engineer Specializing in Backend Development. I also have intere
 
 - New Graduate Software Engineer.
 - Trying to get better at Algorithms and Data Structures.
-- Checkout my blog posts. [Check it out !](https://toltarisa.github.io/)
 
 <p align="left">
  <a href="mailto:isatoltar@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
