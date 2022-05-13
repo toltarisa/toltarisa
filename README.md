@@ -1,7 +1,7 @@
 
 # Hi, I'm Isa :tada:
 
-Junior Software Engineer Specializing in Backend Development. I also have interest for Devops, Network programming. Currently using Java as main language, also learning kotlin for backend development.
+Junior Software Engineer Specializing in Backend Development. I also have interest for Devops. Currently using Java as main language, also learning kotlin for backend development.
 
 ## About me 
 
