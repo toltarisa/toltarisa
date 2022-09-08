@@ -1,7 +1,7 @@
 
 # Hi, I'm Isa :tada:
 
-Software Engineer Specializing in Backend Development. I also have interest for Devops. Currently using Java and Kotlin for Backend Development.
+I'm a Java Backend Developer. I also have interest for Devops. Currently using Java and Kotlin for Backend Development.
 
 <p align="left">
  <a href="mailto:isatoltar@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
